@@ -1,7 +1,6 @@
 import asyncio
 import itertools
 import random
-from pprint import pprint
 
 import requests
 from environs import Env, EnvError
@@ -132,10 +131,3 @@ def get_movies() -> JSONList:
     movies_url = f"{BASE_URL}/movie"
     quote_list = send_get_request(movies_url)
     return quote_list["docs"]
-
-
-if __name__ == '__main__':
-    # quote = asyncio.run(get_random_quoute_by_character(char_id="5cdbdecb6dc0baeae48cfa9b"))
-    # quote = asyncio.run(get_all_quotes())
-    quote = get_movies()
-    pprint(quote)

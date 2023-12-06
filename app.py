@@ -1,6 +1,4 @@
-import asyncio
 import random
-from pprint import pprint
 from typing import AsyncGenerator
 
 from models import Character, CharacterSet
@@ -34,7 +32,3 @@ async def main() -> None:
         print(char_quoute)
 
     get_random_quoutes(random_charactes)
-
-
-if __name__ == '__main__':
-    asyncio.run(main())

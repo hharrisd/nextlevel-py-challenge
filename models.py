@@ -57,6 +57,9 @@ class Character:
     def __str__(self) -> str:
         return f"{self.name}, {self.race} from the realm of {self.realm}"
 
+    def as_dict(self) -> dict:
+        return dict(id=self.id, name=self.name, gender=self.gender, race=self.race, realm=self.realm)
+
 
 @dataclass
 class CharacterSet:

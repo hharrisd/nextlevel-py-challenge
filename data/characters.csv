@@ -1,0 +1,934 @@
+id,name,gender,race,realm
+5cd99d4bde30eff6ebccfbbe,Adanel,Female,Human,No Realm
+5cd99d4bde30eff6ebccfbbf,Adrahil I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbc0,Adrahil II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbc1,Aegnor,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfbc2,Aerin,Female,Human,No Realm
+5cd99d4bde30eff6ebccfbc3,Ailinel,Female,Human,No Realm
+5cd99d4bde30eff6ebccfbc4,Aglahad,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbc5,Algund,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbc6,Almiel,Female,Human,No Realm
+5cd99d4bde30eff6ebccfbc7,Alphros,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbc8,Almarian,Female,Human,Númenor
+5cd99d4bde30eff6ebccfbc9,Amandil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbca,Amarië,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfbcb,Aldor,Male,Human,Rohan
+5cd99d4bde30eff6ebccfbcc,Aldamir,Male,Human,Gondor
+5cd99d4bde30eff6ebccfbcd,Amlaith,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfbce,Amroth,Male,Elf,Lórien
+5cd99d4bde30eff6ebccfbcf,Amrothos,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbd0,Anairë,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfbd1,Anardil,Male,Human,Gondor
+5cd99d4bde30eff6ebccfbd2,Anborn,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbd3,Andreth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfbd4,Andróg,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbd5,Amras,Male,Elf,Estolad
+5cd99d4bde30eff6ebccfbd6,Angamaitë,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbd7,Amdír,Male,Elf,Lórien
+5cd99d4bde30eff6ebccfbd8,Amrod,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfbd9,Annael,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfbda,Angbor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbdb,Angelimir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbdc,Angrod,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfbdd,Anárion,Male,Human,Gondor
+5cd99d4bde30eff6ebccfbde,Ar-Adûnakhôr,Male,Human,Númenor
+5cd99d4bde30eff6ebccfbdf,Ar-Gimilzôr,Male,Human,Númenor
+5cd99d4bde30eff6ebccfbe0,Ar-Zimrathôn,Male,Human,Númenor
+5cd99d4bde30eff6ebccfbe1,Ar-Pharazôn,Male,Human,Númenor
+5cd99d4bde30eff6ebccfbe2,Ar-Sakalthôr,Male,Human,Númenor
+5cd99d4bde30eff6ebccfbe3,Arador,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbe4,Araglas,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbe5,Aragorn I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbe6,Aragorn II Elessar,Male,Human,"Reunited Kingdom,Arnor,Gondor"
+5cd99d4bde30eff6ebccfbe7,Aragost,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbe8,Arahad I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbe9,Arahad II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbea,Arahael,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbeb,Aranarth,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbec,Arantar,Male,Human,Arnor
+5cd99d4bde30eff6ebccfbed,Aranuir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbee,Aranwë,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfbef,Araphant,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfbf0,Arathorn I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbf1,Arathorn II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbf2,Araval,Male,Human,"Arthedain,Arnor"
+5cd99d4bde30eff6ebccfbf3,Aravir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbf4,Aravorn,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbf5,Arciryas,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbf6,Arassuil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbf7,Araphor,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfbf8,Aratan,Male,Human,TA 2
+5cd99d4bde30eff6ebccfbf9,Ardamir (son of Axantur),Male,Human,No Realm
+5cd99d4bde30eff6ebccfbfa,Aredhel,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfbfb,Argeleb I,Male,Human,"Arthedain,Arnor"
+5cd99d4bde30eff6ebccfbfc,Arminas,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfbfd,Arthad,Male,Human,No Realm
+5cd99d4bde30eff6ebccfbfe,Arvedui,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfbff,Arvegil,Male,Human,"Arthedain,Arnor"
+5cd99d4bde30eff6ebccfc00,Arveleg I,Male,Human,"Arnor,Arthedain"
+5cd99d4bde30eff6ebccfc01,Arveleg II,Male,Human,"Arthedain,Arnor"
+5cd99d4bde30eff6ebccfc02,Argon,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfc03,Argonui,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc04,Argeleb II,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfc05,Atanatar II,Male,Human,Gondor
+5cd99d4bde30eff6ebccfc06,Atanalcar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc07,Arwen,Female,Elf,Reunited Kingdom
+5cd99d4bde30eff6ebccfc08,Azaghâl,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfc09,Aulendil (Vardamir's son),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc0a,Angelica Baggins,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc0b,Axantur,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc0c,Balbo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc0d,Atanatar I,Male,Human,Gondor
+5cd99d4bde30eff6ebccfc0e,Belladonna (Took) Baggins,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc0f,Berylla (Boffin) Baggins,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc10,Bungo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc11,Dudo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc12,Laura (Grubb) Baggins,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc13,Fosco Baggins,male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc14,Drogo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc15,Frodo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc16,Longo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc17,Mungo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc18,Peony (Baggins) Burrows,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc19,Ponto Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc1a,Ponto Baggins II,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc1b,Balin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfc1c,Baragund,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc1d,Porto Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc1e,Baran,Male,Human,Estolad
+5cd99d4bde30eff6ebccfc1f,Bain,Male,Human,Dale
+5cd99d4bde30eff6ebccfc20,Baranor (Gondor),No Gender,Human,No Realm
+5cd99d4bde30eff6ebccfc21,Bard,Male,Human,Dale
+5cd99d4bde30eff6ebccfc22,Bard II,Male,Human,"Dale,Lake-town"
+5cd99d4bde30eff6ebccfc23,Beldir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc24,Beldis,Female,Human,No Realm
+5cd99d4bde30eff6ebccfc25,Barahir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc26,Belecthor I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc27,Beleg of Arnor,Male,Human,"Arnor,Arthedain"
+5cd99d4bde30eff6ebccfc28,Belegorn,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc29,Belegund,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc2a,Belemir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc2b,Belen,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc2c,Beorn,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc2d,Bereg,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc2e,Beregond,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc2f,Beregond (Captain),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc30,Berelach,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc31,Beren,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc32,Baranor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc33,Beren (Steward),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc34,Beren (Belemir's son),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc35,Bergil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc36,Barahir (Steward),Male,Human,Gondor
+5cd99d4bde30eff6ebccfc37,Bifur,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfc38,Bilbo Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc39,Bladorthin,Male,Human,"Lake-town,Dale,Rhûn,Dorwinion"
+5cd99d4bde30eff6ebccfc3a,Black Serpent,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc3b,Blanco,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc3c,Belecthor II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc3d,Bob,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc3e,Donnamira (Took) Boffin,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc3f,Daisy (Baggins) Boffin,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc40,Bosco Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc41,Folco Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc42,Gerda (Boffin) Bolger,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc43,Griffo Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc44,Hugo Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc45,Ivy (Goodenough) Boffin,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc46,Basso Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc47,Otto Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc48,Rollo Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc49,Tosto Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc4a,Vigo Boffin,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc4b,Druda Burrows Boffin,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc4c,Filibert Bolger,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc4d,Fredegar Bolger,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc4e,Jessamine (Boffin) Bolger,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc4f,Bofur,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfc50,Odovacar Bolger,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc51,Rosamunda (Took) Bolger,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc52,Jago Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc53,Buffo Boffin,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc54,Bombur,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfc55,Borlad,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc56,Borlas,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc57,Boromir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc58,Boromir (House of Bëor),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc59,Boromir (Steward),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc5a,Wilibald Bolger,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc5b,Borondir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc5c,Borthand,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc5d,Blanco Bracegirdle,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc5e,Bruno Bracegirdle,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc5f,Primrose Bracegirdle,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc60,Brand,Male,Human,"Dale,Laketown"
+5cd99d4bde30eff6ebccfc61,Brandir,No Gender,Human,No Realm
+5cd99d4bde30eff6ebccfc62,Adaldrida (Bolger) Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc63,Amaranth Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc64,Borlach,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc65,Esmeralda Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc66,Estella (Bolger) Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc67,Hilda Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc68,Madoc Brandybuck,Male,Hobbit,Buckland
+5cd99d4bde30eff6ebccfc69,Melilot Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc6a,Mentha Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc6b,Borin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfc6c,Mirabella (Took) Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc6d,Primula (Brandybuck) Baggins,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc6e,Seredic Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc6f,Brego,Male,Human,Rohan
+5cd99d4bde30eff6ebccfc70,Bregolas,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc71,Bregor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc72,Sapphira (Brockhouse) Boffin,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc73,Bucca of the Marish,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc74,Asphodel (Brandybuck) Burrows,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc75,Milo Burrows,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc76,Celandine Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc77,Bëor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc78,Bór,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc79,Calimehtar,Male,Human,Gondor
+5cd99d4bde30eff6ebccfc7a,Minto Burrows,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc7b,Boron,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc7c,Meriadoc Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc7d,Calmacil,Male,Human,Gondor
+5cd99d4bde30eff6ebccfc7e,Celeborn,Male,Elf,"Eregion,Lothlórien,Caras Galadhon"
+5cd99d4bde30eff6ebccfc7f,Celebrimbor,Male,Elf,Eregion
+5cd99d4bde30eff6ebccfc80,Celebrindor,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfc81,Celebrían,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfc82,Celegorm,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfc83,Celepharn,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfc84,Cemendur,Male,Human,Gondor
+5cd99d4bde30eff6ebccfc85,Cemendur (son of Axantur),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc86,Ceorl,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc87,Caliondo,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc88,Cirion,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc89,Ciryandil,Male,Human,Gondor
+5cd99d4bde30eff6ebccfc8a,Ciryatur,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc8b,Ciryon,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc8c,Bowman Cotton,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc8d,Lily Cotton,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc8e,Marigold (Gamgee) Cotton,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc8f,Rosie Cotton,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc90,Tolman Cotton,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc91,Castamir the Usurper,Male,Human,Gondor
+5cd99d4bde30eff6ebccfc92,Curufin,Male,Elf,Himlad
+5cd99d4bde30eff6ebccfc93,Círdan,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfc94,Dairuin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc95,Damrod,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc96,User:Deathshriek,No Gender,Dwarf,No Realm
+5cd99d4bde30eff6ebccfc97,Denethor (First Age),Male,Elf,Ossiriand
+5cd99d4bde30eff6ebccfc98,Falco Chubb-Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc99,Caranthir,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfc9a,Denethor II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfc9b,Diamond Took,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc9c,Dinodas Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc9d,Dior (Steward),Male,Human,No Realm
+5cd99d4bde30eff6ebccfc9e,Dodinas Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfc9f,Dori,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfca0,Dorlas,Males,Human,No Realm
+5cd99d4bde30eff6ebccfca1,Denethor I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfca2,Duinhir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfca3,Durin VII,Male,Dwarf,Khazad-dum
+5cd99d4bde30eff6ebccfca4,Dwalin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfca5,Dáin I,Male,Dwarf,Grey Mountains
+5cd99d4bde30eff6ebccfca6,Dervorin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfca7,Déagol,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfca8,Déor,Male,Human,Rohan
+5cd99d4bde30eff6ebccfca9,Derufin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcaa,Duilin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcab,Dáin II Ironfoot,Male,Dwarf,Lonely Mountain
+5cd99d4bde30eff6ebccfcac,Déorwine,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcad,Dírhael,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcae,Dírhavel,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcaf,Dís,Female,Dwarf,No Realm
+5cd99d4bde30eff6ebccfcb0,Dúnhere,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcb1,Ecthelion II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcb2,Ecthelion I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcb3,Edrahil,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfcb4,Egalmoth,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcb5,Eglantine (Banks) Took,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfcb6,Eilinel,Female,Human,No Realm
+5cd99d4bde30eff6ebccfcb7,Elatan,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcb8,Eldacar (King of Arnor),Male,Human,Arnor
+5cd99d4bde30eff6ebccfcb9,Eldarion,Male,Human,"Reunited Kingdom,Arnor,Gondor"
+5cd99d4bde30eff6ebccfcba,Eldacar (King of Gondor),Male,Human,Gondor
+5cd99d4bde30eff6ebccfcbb,Elemmírë (elf),No Gender,Elf,No Realm
+5cd99d4bde30eff6ebccfcbc,Elendil,Male,Human,"Arnor,Gondor"
+5cd99d4bde30eff6ebccfcbd,Elendur,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcbe,Elendur of Arnor,Male,Human,Arnor
+5cd99d4bde30eff6ebccfcbf,Elboron,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcc0,Eldalótë,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfcc1,Elenwë,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfcc2,Elfhelm,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcc3,Elfhild,Female,Human,Rohan
+5cd99d4bde30eff6ebccfcc4,Elfwine,Male,Human,Rohan
+5cd99d4bde30eff6ebccfcc5,Elladan and Elrohir,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfcc6,Emeldir,Female,Human,No Realm
+5cd99d4bde30eff6ebccfcc7,Elphir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcc8,Elrond,Male,Elf,Rivendell
+5cd99d4bde30eff6ebccfcc9,Enel,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfcca,Enelyë,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfccb,Enerdhil,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfccd,Erchirion,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcce,Erellont,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfccf,Erendis,Female,Human,Númenor
+5cd99d4bde30eff6ebccfcd0,Erestor,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfcd2,Eorl the Young,Male,Human,Rohan
+5cd99d4bde30eff6ebccfcd3,Erkenbrand,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcd4,Estelmo,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcd5,Eradan,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcd6,Eärendur of Númenor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcd7,Eärnil I,Male,Human,Gondor
+5cd99d4bde30eff6ebccfcd8,Eärnil II,Male,Human,Gondor
+5cd99d4bde30eff6ebccfcd9,Eärnur,Male,Human,Gondor
+5cd99d4bde30eff6ebccfcda,Eärwen,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfcdb,Eärendur (Lord of Andúnië),Male,Human,No Realm
+5cd99d4bde30eff6ebccfcdc,Eöl,Male,Elf,Nan Elmoth
+5cd99d4bde30eff6ebccfcdd,Eärendil of Gondor,Male,Human,Gondor
+5cd99d4bde30eff6ebccfcde,Eärendur of Arnor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcdf,Faramir (son of Ondoher),Male,Human,No Realm
+5cd99d4bde30eff6ebccfce0,Fastred,Male,Human,No Realm
+5cd99d4bde30eff6ebccfce1,Fastred (Pelennor Fields),Male,Human,No Realm
+5cd99d4bde30eff6ebccfce2,Fengel,Male,Human,Rohan
+5cd99d4bde30eff6ebccfce3,Ferumbras Took II,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfce4,Finarfin,Male,Elf,Tirion
+5cd99d4bde30eff6ebccfce5,Findegil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfce6,Findis,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfce7,Finduilas,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfce8,Finduilas of Dol Amroth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfce9,Fingolfin,Male,Elf,"Hithlum,Beleriand"
+5cd99d4bde30eff6ebccfcea,Farin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfceb,Fingon,Male,Elf,Hithlum
+5cd99d4bde30eff6ebccfcec,Finrod,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfced,Finwë,Male,Elf,"Tirion,Formenos"
+5cd99d4bde30eff6ebccfcee,Flói,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfcef,Faramir,Male,Human,Minas Ithil
+5cd99d4bde30eff6ebccfcf0,Folca,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcf1,Fastolph Bolger,Male,Hobbit,Shire
+5cd99d4bde30eff6ebccfcf2,Folcred,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcf3,Forlong,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcf4,Folcwine,Male,Human,Rohan
+5cd99d4bde30eff6ebccfcf5,Fortinbras Took I,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfcf6,Forthwini,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcf7,Forweg,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcf8,Freca,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcf9,Fram,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcfa,Frerin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfcfb,Frumgar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfcfc,Fréawine,Male,Human,Rohan
+5cd99d4bde30eff6ebccfcfd,Frór,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfcfe,Frár,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfcff,Fundin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd00,Fréa,Male,Human,Rohan
+5cd99d4bde30eff6ebccfd01,Fréaláf Hildeson,Male,Human,Rohan
+5cd99d4bde30eff6ebccfd02,Fëanor,Male,Elf,"Tirion,Formenos"
+5cd99d4bde30eff6ebccfd03,Fíriel,Female,Human,Arthedain
+5cd99d4bde30eff6ebccfd04,Fíli and Kíli,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd05,Galar,No Gender,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd06,Galadriel,Female,Elf,"Eregion,Lothlórien,Caras Galadhon"
+5cd99d4bde30eff6ebccfd07,Galdor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd08,Galion,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd09,Daisy Gamgee I,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd0a,Frodo Gardner,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd0b,Hamson Gamgee,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd0c,May Gamgee,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd0d,Samwise Gamgee,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd0e,Gamling,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd0f,Elanor Gardner,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd10,Gelmir,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd11,Hamfast Gamgee,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd12,Halfred Gamgee,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd13,Galdor of the Havens,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd14,Gil-galad,Male,Elf,"Havens of Sirion,Lindon"
+5cd99d4bde30eff6ebccfd15,Gildis,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd16,Gildor (Edain),Male,Human,No Realm
+5cd99d4bde30eff6ebccfd17,Gildor Inglorion,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd18,Gilfanon,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd19,Ghân-buri-Ghân,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd1a,Gethron,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd1b,Gilraen,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd1c,Gelmir (of Angrod's kin),Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd1d,Girion,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd1e,Gimilzagar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd1f,Glorfindel,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd20,Glirhuin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd21,Gléowine,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd22,Gimilkhâd,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd23,Gimli,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd24,Golasgil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd25,Goldwine,Male,Human,Rohan
+5cd99d4bde30eff6ebccfd26,Hanna (Goldworthy) Brandybuck,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd27,Gorbulas Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd28,Gorhendad (Oldbuck) Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd29,Gorlim,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd2a,Glóin (King of Durin's Folk),Male,Dwarf,Grey Mountains
+5cd99d4bde30eff6ebccfd2b,Glóin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd2c,Glóredhel,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd2d,Gormadoc Deepdelver Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd2e,Gram,Male,Human,Rohan
+5cd99d4bde30eff6ebccfd2f,Holman Greenhand,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd30,Rose Greenhand,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd31,Grimbeorn,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd32,Grimbold,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd33,Grithnir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd34,Gróin,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd35,Halfred Greenhand,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd36,Erling Greenhand,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd37,Guilin,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd38,Hending Greenhand,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd39,Grór,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd3a,Gundor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd3b,Guthláf,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd3c,Hador,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd3d,Hador (Steward),Male,Human,No Realm
+5cd99d4bde30eff6ebccfd3e,Halbarad,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd3f,Haldir (Haladin),Male,Human,No Realm
+5cd99d4bde30eff6ebccfd40,Gálmód,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd41,Gwindor,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd42,Haldir (Lorien),Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd43,Haleth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd44,Gárulf,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd45,Haleth (Helm's son),Male,Human,No Realm
+5cd99d4bde30eff6ebccfd46,Hallacar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd47,Hallas (Steward),Male,Human,No Realm
+5cd99d4bde30eff6ebccfd48,Halmir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd49,Hallatan,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd4a,Hamfast of Gamwich,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd4b,Hareth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd4c,Harding,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd4d,Hardang,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd4e,Hathaldir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd4f,Hatholdir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd50,Helm Hammerhand,Male,Human,Rohan
+5cd99d4bde30eff6ebccfd51,Hathol,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd52,Handir,No Gender,Human,Brethil
+5cd99d4bde30eff6ebccfd53,Henderch,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd54,Herefara,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd55,Hendor,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd56,Herion,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd57,Herubrand,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd58,Herucalmo,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd59,Hirgon,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd5a,Hirluin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd5b,Hob Gammidge,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd5c,Hob Hayward,Male,Hobbit,Shire
+5cd99d4bde30eff6ebccfd5d,Tobias Hornblower,Male,Hobbit,Shire
+5cd99d4bde30eff6ebccfd5e,Holfast Gardner,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd5f,Horn,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd60,Hundad,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd61,Hundar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd62,Hunthor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd63,Huor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd64,Hyarmendacil I,Male,Human,Gondor
+5cd99d4bde30eff6ebccfd65,Hyarmendacil II,Male,Human,Gondor
+5cd99d4bde30eff6ebccfd66,Háma,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd67,Húrin II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd68,Háma (Helm's son),Male,Human,No Realm
+5cd99d4bde30eff6ebccfd69,Húrin of Emyn Arnen,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd6a,Húrin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd6b,Imin,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd6c,Iminyë,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfd6d,Imlach,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd6e,Imrahil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd6f,Imrazôr,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd70,Idril,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfd71,Ibûn,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd72,Indis,Female,Elf,Tirion
+5cd99d4bde30eff6ebccfd73,Húrin I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd74,Ingwë,Male,Elf,"Valinor,Taniquetil"
+5cd99d4bde30eff6ebccfd75,Inzilbêth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd76,Ioreth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd77,Iorlas,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd78,Isembold Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd79,Ingold,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd7a,Isengrim Took III,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd7b,Indor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd7c,Ingwion,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd7d,Isilmo,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd7e,Ivriniel,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd7f,Lalaith,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd80,Larnach,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd81,Legolas,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd82,Isildur,Male,Human,"Arnor,Gondor"
+5cd99d4bde30eff6ebccfd83,Lindir,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd84,Lindissë,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd85,Isilmë,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd86,Lindo,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd87,Ivorwen,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd88,Lindórië,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd89,Lenwë,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd8a,Lorgan,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd8b,Lothíriel,Female,Human,Rohan
+5cd99d4bde30eff6ebccfd8c,Léod,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd8d,Brytta Léofa,Male,Human,Rohan
+5cd99d4bde30eff6ebccfd8e,Lóni,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfd8f,Lúthien,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfd90,Farmer Maggot,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd91,Mablung the Ranger,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd92,Maglor,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd93,Maedhros,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd94,Mahtan,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd95,Magor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd96,Mairen,Female,Human,No Realm
+5cd99d4bde30eff6ebccfd97,Malach,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd98,Maeglin,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfd99,Malvegil,Male,Human,Arthedain
+5cd99d4bde30eff6ebccfd9a,Manthor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd9b,Manwendil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd9c,Malva Headstrong Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfd9d,Mallor,Male,Human,"Arthedain,Arnor"
+5cd99d4bde30eff6ebccfd9e,Marach,Male,Human,No Realm
+5cd99d4bde30eff6ebccfd9f,Marcho,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfda0,Mardil Voronwë,Male,Human,No Realm
+5cd99d4bde30eff6ebccfda1,Malbeth the Seer,Male,Human,No Realm
+5cd99d4bde30eff6ebccfda2,Marhwini,Male,Human,No Realm
+5cd99d4bde30eff6ebccfda3,Marmadas Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfda4,Master of Laketown,Male,Human,Lake-town
+5cd99d4bde30eff6ebccfda5,Meneldil,Male,Human,Gondor
+5cd99d4bde30eff6ebccfda6,Meleth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfda7,Meril-i-Turinqi,Female,Elf,Tol Eressëa
+5cd99d4bde30eff6ebccfda8,Merimas Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfda9,Minohtar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdaa,Marroc Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdab,Marhari,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdac,Minardil,Male,Human,Gondor
+5cd99d4bde30eff6ebccfdad,Mithrellas,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfdae,Morwen,Female,Human,No Realm
+5cd99d4bde30eff6ebccfdaf,Morwen (Gondor),Female,Human,No Realm
+5cd99d4bde30eff6ebccfdb0,Morwë,No Gender,Elf,No Realm
+5cd99d4bde30eff6ebccfdb1,Míriel,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfdb2,Mîm,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfdb3,Narmacil I,Male,Human,Gondor
+5cd99d4bde30eff6ebccfdb4,Nessanië,Female,Human,No Realm
+5cd99d4bde30eff6ebccfdb5,Nimrodel,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfdb6,Nerdanel,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfdb7,Naugladur,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfdb8,Nina Lightfoot,Female,Hobbit,Shire
+5cd99d4bde30eff6ebccfdb9,Nolondil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdba,Niënor,Female,Human,No Realm
+5cd99d4bde30eff6ebccfdbb,Nob,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdbc,Narmacil II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdbd,Náin I,Male,Dwarf,Khazad-dûm
+5cd99d4bde30eff6ebccfdbe,Náin II,Male,Dwarf,Grey Mountains
+5cd99d4bde30eff6ebccfdbf,Náli,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfdc0,Nár,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfdc1,Númendil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdc2,Núneth,Female,Human,No Realm
+5cd99d4bde30eff6ebccfdc3,Nurwë,No Gender,Elf,No Realm
+5cd99d4bde30eff6ebccfdc4,Nori,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfdc5,Náin (father of Dáin II Ironfoot),Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfdc6,Old Noakes,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdc7,Olwë,Male,Elf,"Tol Eressëa,Alqualondë"
+5cd99d4bde30eff6ebccfdc8,Orchaldor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdc9,Ondoher,Male,Human,Gondor
+5cd99d4bde30eff6ebccfdca,Ori,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfdcb,Orodreth,Male,Elf,Nargothrond
+5cd99d4bde30eff6ebccfdcc,Orodreth (Steward),Male,Human,No Realm
+5cd99d4bde30eff6ebccfdcd,Oromendil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdce,Ohtar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdcf,Ostoher,Male,Human,Gondor
+5cd99d4bde30eff6ebccfdd0,Orophin,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfdd1,Pelendur,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdd2,Mrs. Proudfoot,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdd3,Pengolodh,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfdd4,Otho Sackville-Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdd5,Odo Proudfoot,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdd6,Radhruin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdd7,Oropher,Male,Elf,Woodland Realm
+5cd99d4bde30eff6ebccfdd8,Ragnir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdd9,Ragnor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdda,Rían,Female,Human,No Realm
+5cd99d4bde30eff6ebccfddb,Rían (Gondor),Female,Human,No Realm
+5cd99d4bde30eff6ebccfddc,Rowan Greenhand,Male,Hobbit,Shire
+5cd99d4bde30eff6ebccfddd,Rudigar Bolger,Male,Hobbit,Bree
+5cd99d4bde30eff6ebccfdde,Rufus Burrows,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfddf,Rómendacil I,Male,Human,Gondor
+5cd99d4bde30eff6ebccfde0,Lobelia Sackville-Baggins,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfde1,Rúmil (Noldo),Male,Elf,No Realm
+5cd99d4bde30eff6ebccfde2,Lotho Sackville-Baggins,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfde3,Sadoc Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfde4,Sador,Male,Human,No Realm
+5cd99d4bde30eff6ebccfde5,Saelon,Male,Human,No Realm
+5cd99d4bde30eff6ebccfde6,Rúmil of Lórien,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfde7,Sagroth,Male,Human,No Realm
+5cd99d4bde30eff6ebccfde8,Rómendacil II,Male,Human,Gondor
+5cd99d4bde30eff6ebccfde9,Silmariën,Female,Human,No Realm
+5cd99d4bde30eff6ebccfdea,Sangahyando,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdeb,Siriondil,Male,Human,Gondor
+5cd99d4bde30eff6ebccfdec,Saradas Brandybuck,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfded,Robin Smallburrow,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdee,Soronto,Male,Human,No Realm
+5cd99d4bde30eff6ebccfdef,Morwen Steelsheen,Female,Human,Rohan
+5cd99d4bde30eff6ebccfdf0,Tar-Alcarin,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf1,Ted Sandyman,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfdf2,Tar-Aldarion,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf3,Tar-Amandil,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf4,Tar-Ancalimon,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf5,Tar-Anárion,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf6,Tar-Ardamin,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf7,Tar-Atanamir,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf8,Tar-Calmacil,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdf9,Tar-Ciryatan,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdfa,Tar-Elendil,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdfb,Tar-Ancalimë,Female,Human,Númenor
+5cd99d4bde30eff6ebccfdfc,Tar-Palantir,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdfd,Tar-Súrion,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdfe,Tar-Minastir,Male,Human,Númenor
+5cd99d4bde30eff6ebccfdff,Tar-Míriel,Female,Human,Númenor
+5cd99d4bde30eff6ebccfe00,Tar-Telperiën,Female,Human,Númenor
+5cd99d4bde30eff6ebccfe01,Tar-Vanimeldë,Female,Human,Númenor
+5cd99d4bde30eff6ebccfe02,Tarannon Falastur,Male,Human,Gondor
+5cd99d4bde30eff6ebccfe03,Tar-Telemmaitë,Male,Human,Númenor
+5cd99d4bde30eff6ebccfe04,Tarcil,Male,Human,Arnor
+5cd99d4bde30eff6ebccfe05,Tar-Meneldur,Male,Human,Númenor
+5cd99d4bde30eff6ebccfe06,Targon,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe07,Tata,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfe08,Tatië,Female,Elf,No Realm
+5cd99d4bde30eff6ebccfe09,Tarciryan,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe0a,Telchar,Male,Dwarf,No Realm
+5cd99d4bde30eff6ebccfe0b,Telemnar,Male,Human,Gondor
+5cd99d4bde30eff6ebccfe0c,Telumehtar,Male,Human,Gondor
+5cd99d4bde30eff6ebccfe0d,The King of the Dead,Male,Human,"White Mountains,Paths of the Dead"
+5cd99d4bde30eff6ebccfe0e,Tarondor,Male,Human,Gondor
+5cd99d4bde30eff6ebccfe0f,Tarondor of Arnor,Male,Human,Arnor
+5cd99d4bde30eff6ebccfe10,User:Technobliterator/Showcase,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe11,Thengel,Male,Human,Rohan
+5cd99d4bde30eff6ebccfe12,Thorondir,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe13,Thranduil,Male,Elf,"Woodland Realm,Mirkwood"
+5cd99d4bde30eff6ebccfe14,Thráin I,Male,Dwarf,Khazad-dûm
+5cd99d4bde30eff6ebccfe15,Thorin II Oakenshield,Male,Dwarf,Ered Luin
+5cd99d4bde30eff6ebccfe16,Thráin II,Male,Dwarf,Lonely Mountain
+5cd99d4bde30eff6ebccfe17,Thorin III Stonehelm,Male,Dwarf,"Lonely Mountain,Iron Hills"
+5cd99d4bde30eff6ebccfe18,Thrór,Male,Dwarf,"Grey Mountains,Lonely Mountain"
+5cd99d4bde30eff6ebccfe19,Théoden,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe1a,Théodred,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe1b,Tindómiel,Female,Human,No Realm
+5cd99d4bde30eff6ebccfe1c,Thorin I,Male,Dwarf,"Lonely Mountain,Grey Mountains"
+5cd99d4bde30eff6ebccfe1d,Faramir Took I,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe1e,Isumbras Took I,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe1f,Fortinbras Took II,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe20,Isumbras Took III,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe21,Adalgrim Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe22,Adamanta (Chubb) Took,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe23,Isengrim Took II,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe24,Adelard Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe25,Ferumbras III Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe26,Bandobras Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe27,Hildifons Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe28,Isembard Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe29,Hildigrim Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe2a,Gerontius Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe2b,Hildibrand Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe2c,Paladin Took II,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe2d,Pearl Took,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe2e,Peregrin Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe2f,Rosa (Baggins) Took,Female,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe30,Sigismond Took,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe31,Turgon,Male,Elf,"Nevrast,Gondolin"
+5cd99d4bde30eff6ebccfe32,Turgon (Steward),Male,Human,No Realm
+5cd99d4bde30eff6ebccfe33,Túrin,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe34,Tulkastor,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfe35,Tuor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe36,Turambar,Male,Human,Gondor
+5cd99d4bde30eff6ebccfe37,Uldor,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe38,Túrin II,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe39,Ulfang,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe3a,Ulfast,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe3b,Ulbar,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe3c,Túrin I,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe3d,Urthel,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe3e,Ulwarth,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe3f,Vairë (Elf),Female,Elf,No Realm
+5cd99d4bde30eff6ebccfe40,Valacar,Male,Human,Gondor
+5cd99d4bde30eff6ebccfe41,Valandil,Male,Human,Arnor
+5cd99d4bde30eff6ebccfe42,Valandur,Male,Human,Arnor
+5cd99d4bde30eff6ebccfe43,Valandil of Andúnië,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe44,Vidugavia,Male,Human,Rhovanion
+5cd99d4bde30eff6ebccfe45,Vardamir Nólimon,Male,Human,Númenor
+5cd99d4bde30eff6ebccfe46,Vardilmë,Female,Human,No Realm
+5cd99d4bde30eff6ebccfe47,Vidumavi,Female,Human,No Realm
+5cd99d4bde30eff6ebccfe48,Vorondil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe49,Voronwë,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfe4a,Vëantur,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe4b,Walda,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe4c,Willie Banks,Male,Hobbit,Bree
+5cd99d4bde30eff6ebccfe4d,Wiseman Gamwich,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe4e,Wulf I,Male,Human,Rohan
+5cd99d4bde30eff6ebccfe4f,Wídfara,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe53,Írimë,No Gender,Elf,No Realm
+5cd99d4bde30eff6ebccfe55,Óin,No Gender,Dwarf,No Realm
+5cd99d4bde30eff6ebccfe56,Yávien,Female,Human,No Realm
+5cd99d4bde30eff6ebccfe57,Dora Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe58,Largo Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe59,Mimosa (Bunce) Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe5a,Pansy Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe5b,Polo Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe5c,Ponto Baggins I,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe5d,Bingo Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe5e,Chica (Chubb) Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe5f,Óin (King of Durin's Folk),No Gender,Dwarf,No Realm
+5cd99d4bde30eff6ebccfe60,Prisca (Baggins) Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe61,Rudibert Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe62,Theobald Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe63,Adalgar Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe64,Ruby (Bolger) Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe65,Wilimar Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe66,Camellia (Sackville) Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe67,Everard Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe68,Gundahar Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe69,Ferdinand Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe6a,Pervinca Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe6b,Pimpernel Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe6c,Ferdibrand Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe6d,Reginard Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe6e,Flambard Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe6f,Lalia (Clayhanger) Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe70,Ruby Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe71,Rudolph Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe72,Tanta (Hornblower) Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe73,Inigo Baggins,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe74,Tanta Hornblower,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe75,Tobold Hornblower,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe76,Lily (Baggins) Goodbody,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe77,Togo Goodbody,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe78,Goldberry,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe79,Bell (Goodchild) Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe7a,Goldilocks (Gardner) Took,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe7b,Merry Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe7c,Bilbo Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe7d,Halfast Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe7e,Rose Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe7f,Pippin Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe80,Durin,No Gender,Dwarf,No Realm
+5cd99d4bde30eff6ebccfe81,Poppy (Chubb-Baggins) Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe82,Robin Gardner,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe83,Primrose Gardner,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe84,Hamfast Gardner,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe85,Tolman Cotton Jr.,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe86,Carl Cotton,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe87,Wilcome Cotton,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe88,Doderic Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe89,Daisy Gamgee,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe8a,Berilac Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe8b,Gorbadoc Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe8c,Marmadoc Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe8d,Ilberic Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe8e,Orgulas Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe8f,Rorimac Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe90,Merimac Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe91,Salvia (Brandybuck) Bolger,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe92,Bilbo Gardner,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe93,Briffo Boffin,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe94,Gruffo Boffin,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe95,Lavender (Grubb) Boffin,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe96,Uffo Boffin,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe97,Bodo Proudfoot,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe98,Sancho Proudfoot,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe99,Olo Proudfoot,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe9a,Saradoc Brandybuck,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe9b,Nimloth (elf),Female,Elf,Doriath
+5cd99d4bde30eff6ebccfe9c,Linda (Baggins) Proudfoot,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe9d,Gríma Wormtongue,Male,Human,No Realm
+5cd99d4bde30eff6ebccfe9e,Gollum,Male,Hobbit,No Realm
+5cd99d4bde30eff6ebccfe9f,Legolas (elf of Gondolin),Male,Elf,No Realm
+5cd99d4bde30eff6ebccfea0,Gandalf,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfea1,Radagast,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfea2,Tilion,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfea3,Elemmakil,Male,Elf,No Realm
+5cd99d4bde30eff6ebccfea4,Saruman,Male,Maiar,"Isengard,Nan Curunír"
+5cd99d4bde30eff6ebccfea5,Sauron,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfea6,Eönwë,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfea7,Durin's Bane,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfea8,Alatar,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfea9,Arien,Female,Maiar,No Realm
+5cd99d4bde30eff6ebccfeaa,Uinen,Female,Maiar,No Realm
+5cd99d4bde30eff6ebccfeab,Mosco Burrows,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfeac,Myrtle Burrows,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfead,Pallando,Male,Maiar,No Realm
+5cd99d4bde30eff6ebccfeae,Moro Burrows,No Gender,Hobbit,No Realm
+5cd99d4bde30eff6ebccfeaf,Thingol,Male,Elf,Doriath
+5cd99d4bde30eff6ebccfeb0,Théodwyn,No Gender,Human,No Realm
+5cd99d4bde30eff6ebccfeb1,Eärendil,Male,Human,No Realm
+5cd99d4bde30eff6ebccfeb2,Harry Goatleaf,Male,Human,No Realm
+5cd9d533844dc4c55e47afed,Treebeard,Male,Ent,No Realm
+5cd9d576844dc4c55e47afee,Witch-King of Angmar,No Gender,Human,No Realm
+5cd9d5a0844dc4c55e47afef,Mouth of Sauron,Male,Human,No Realm
+5cd9d5cf844dc4c55e47aff0,Irolas,No Gender,Human,No Realm
+5cdbdecb6dc0baeae48cfa35,Lagduf,Male,Orcs,No Realm
+5cdbdecb6dc0baeae48cfa36,Fire-drake of Gondolin,Male,Dragon,No Realm
+5cdbdecb6dc0baeae48cfa37,Angrim,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa38,Angelimar,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa39,Penlod,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa3a,Squint-eyed Southerner,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa3b,Fimbrethil,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa3c,Bill Ferny,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfa3d,Fastred of Greenholm,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa3e,Falathar,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa3f,Elfstan Fairbairn,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa40,Snaga (Two Towers orc),Male,Orcs,No Realm
+5cdbdecb6dc0baeae48cfa41,Snaga,Male,Orcs,No Realm
+5cdbdecb6dc0baeae48cfa42,Smaug,Male,Dragons,Lonely Mountain
+5cdbdecb6dc0baeae48cfa43,Seers,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa44,Shelob,Female,Great Spiders,Torech Ungol
+5cdbdecb6dc0baeae48cfa45,Shagrat,Male,Black Uruk,Cirith Ungol
+5cdbdecb6dc0baeae48cfa46,Scatha,Male,Dragons,No Realm
+5cdbdecb6dc0baeae48cfa47,Salmar,Male,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa48,Sandyman,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa49,Salgant,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa4a,Saeros,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa4b,Ruffian Leader,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa4c,Roäc,Male,Raven,No Realm
+5cdbdecb6dc0baeae48cfa4d,Andwise Roper,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa4e,Rog,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa4f,River-woman,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa50,Radbug,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa51,Khîm,Male,Dwarves,No Realm
+5cdbdecb6dc0baeae48cfa52,Khamûl,Male,"Men,Wraith","Rhûn,Dol Guldur,Sauron"
+5cdbdecb6dc0baeae48cfa53,Irmo,Male,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa54,Eru Ilúvatar,Male,God,Timeless Halls
+5cdbdecb6dc0baeae48cfa55,Ilmarë,Female,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa56,Hurin (Warden of the Keys),No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa57,Huan,Male,Wolfhound,No Realm
+5cdbdecb6dc0baeae48cfa58,Estë,Female,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa59,Éowyn,Female,Men,No Realm
+5cdbdecb6dc0baeae48cfa5a,Éomer,Male,Men,Rohan
+5cdbdecb6dc0baeae48cfa5b,Elwing,Female,Half-elven,No Realm
+5cdbdecb6dc0baeae48cfa5c,Eluréd and Elurín,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa5d,Elros,Male,Half-elven,Númenor
+5cdbdecb6dc0baeae48cfa5e,Elmo,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa5f,Egalmoth (elf),Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa60,Ecthelion of the Fountain,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa61,Ebor,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa62,Ossë,Male,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa63,Oromë,Male,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa64,Orleg,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa65,Orcobal,Male,Orcs,No Realm
+5cdbdecb6dc0baeae48cfa66,Old Man Willow,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa67,Hild,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa68,Herumor (Fourth Age),Male,Men,No Realm
+5cdbdecb6dc0baeae48cfa69,Herumor,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfa6a,Mat Heathertoes,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa6b,Haldar,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa6c,Haldad,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa6d,Draugluin,Male,Werewolves,No Realm
+5cdbdecb6dc0baeae48cfa6e,Dior,Male,Half-elven,Doriath
+5cdbdecb6dc0baeae48cfa6f,Dina Diggle,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa70,Daeron,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfa71,Óin (King of Durin's Folk),Male,Men,Grey Mountains
+5cdbdecb6dc0baeae48cfa72,Óin,Male,Dwarves,No Realm
+5cdbdecb6dc0baeae48cfa73,mar,Male,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa74,bal,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfa75,Írimë,Female,Elves,No Realm
+5cdbdecb6dc0baeae48cfa76,Írildë,Female,Men,No Realm
+5cdbdecb6dc0baeae48cfa77,Éothain,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfa78,Éomund,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfa79,Éofor,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfa7a,Zamîn,Female,Men,No Realm
+5cdbdecb6dc0baeae48cfa7b,Yavanna,Female,Ainur,Pastures of Yavanna
+5cdbdecb6dc0baeae48cfa7c,Tom Bombadil,Male,No Race,Old Forest
+5cdbdecb6dc0baeae48cfa7d,Bolg,Male,"Goblin,Orc",No Realm
+5cdbdecb6dc0baeae48cfa7e,Boldog (Character),No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa7f,Bodruith,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa80,Berúthiel,Female,Men,Gondor
+5cdbdecb6dc0baeae48cfa81,Nienna,Female,Ainur,"Valinor,Halls of Nienna"
+5cdbdecb6dc0baeae48cfa82,Nielíqui,Female,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa83,Nessa,Female,Ainur,Valinor
+5cdbdecb6dc0baeae48cfa84,Nellas,Female,Elves,No Realm
+5cdbdecb6dc0baeae48cfa85,Nauglath,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa86,Narvi,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa87,Nahar,No Gender,Horse,No Realm
+5cdbdecb6dc0baeae48cfa88,Mûmakil,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa89,Muzgash,Male,Orc,No Realm
+5cdbdecb6dc0baeae48cfa8a,The Moth,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa8b,Minastan,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa8c,Meneldor,Male,Eagles,No Realm
+5cdbdecb6dc0baeae48cfa8d,Men,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa8e,Melkor,Male,Ainur,"Utumno,Angband,Middle-earth,Beleriand"
+5cdbdecb6dc0baeae48cfa8f,Melian,Female,Ainur,Doriath
+5cdbdecb6dc0baeae48cfa90,Mauhúr,Male,Uruk-hai,"Isengard,Saruman"
+5cdbdecb6dc0baeae48cfa91,Manwë,Male,Ainur,"Arda,Valinor"
+5cdbdecb6dc0baeae48cfa92,Mandos,Male,Ainur,No Realm
+5cdbdecb6dc0baeae48cfa93,Gwaihir,Male,Great Eagles,No Realm
+5cdbdecb6dc0baeae48cfa94,Grishnákh,Male,Orc,No Realm
+5cdbdecb6dc0baeae48cfa95,Great Goblin,Male,Orcs,No Realm
+5cdbdecb6dc0baeae48cfa96,Gothmog (Lieutenant of Morgul),Male,Orc,"Minas Morgul,the Witch-King"
+5cdbdecb6dc0baeae48cfa97,Gothmog,Male,"Maiar,Balrogs",No Realm
+5cdbdecb6dc0baeae48cfa98,Gostir,Male,Dragons,No Realm
+5cdbdecb6dc0baeae48cfa99,"Gormadoc ""Deepdelver"" Brandybuck",Male,Hobbits,Buckland
+5cdbdecb6dc0baeae48cfa9a,Gorgol,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa9b,Gorbag,Male,"Uruk-hai,Orc",Cirith Ungol
+5cdbdecb6dc0baeae48cfa9c,Golfimbul,Male,"Orc,Goblin",Mount Gram
+5cdbdecb6dc0baeae48cfa9d,Glaurung,Male,Dragons,No Realm
+5cdbdecb6dc0baeae48cfa9e,Gimli (Elf),No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfa9f,Gilmith,Female,Half-elven,No Realm
+5cdbdecb6dc0baeae48cfaa0,Cottar,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaa1,Cora Goodbody,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaa2,Carcharoth,Male,Werewolves,Angband
+5cdbdecb6dc0baeae48cfaa3,Carc,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaa4,Calimmacil,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaa5,Barliman Butterbur,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfaa6,Witch-king of Angmar,Male,"Men,Wraith","Angmar,Minas Morgul,Osgiliath"
+5cdbdecb6dc0baeae48cfaa7,Wife of Barach,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaa8,Widow Rumble,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaa9,Will Whitfoot,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaaa,Watcher in the Water,Most likely male,Urulóki,Doors of Durin
+5cdbdecb6dc0baeae48cfaab,Warg Matriarch,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaac,Vëannë,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaad,Varda,Female,Ainur,Arda
+5cdbdecb6dc0baeae48cfaae,Vairë,Female,Ainur,"Valinor,Halls of Mandos"
+5cdbdecb6dc0baeae48cfaaf,Ungoliant,Female,Great Spiders,No Realm
+5cdbdecb6dc0baeae48cfab0,Ulrad,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfab1,Ulmo,Male,Ainur,"Valinor,Ulmonan"
+5cdbdecb6dc0baeae48cfab2,Uglúk,Male,Uruk-hai,Isengard
+5cdbdecb6dc0baeae48cfab3,Ufthak,Male,Orc,Cirith Ungol
+5cdbdecb6dc0baeae48cfab4,Daddy Twofoot,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfab5,Tulkas,Male,Ainur,"Valinor,House of Tulkas"
+5cdbdecb6dc0baeae48cfab6,Beleg,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfab7,Beechbone,Male,Ents,No Realm
+5cdbdecb6dc0baeae48cfab8,Barahir (Fourth Age),No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfab9,Baldor,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaba,Balcmeg,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfabb,Man in the Moon,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfabc,"Malva ""Headstrong"" Brandybuck",Female,Hobbit,No Realm
+5cdbdecb6dc0baeae48cfabd,Malantur,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfabe,Mallor (BOH),No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfabf,Mablung,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfac0,Lungorthin,Male,Balrog,No Realm
+5cdbdecb6dc0baeae48cfac1,Lugdush,Male,Uruk-hai,No Realm
+5cdbdecb6dc0baeae48cfac2,Letter 211,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfac3,Landroval,Male,Eagle,No Realm
+5cdbdecb6dc0baeae48cfac4,Gamil Zirak,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfac5,Galdor of the Tree,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfac6,Galathil,Male,Elves,No Realm
+5cdbdecb6dc0baeae48cfac7,Galador,Male,Half-elven,No Realm
+5cdbdecb6dc0baeae48cfac8,Fíriel Fairbairn,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfac9,Fuithluin,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfaca,Fuinur,Male,Men,No Realm
+5cdbdecb6dc0baeae48cfacb,Fladrif,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfacc,Broncho Stonecrow,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfacd,Brodda,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cface,Bregalad,Male,Ents,No Realm
+5cdbdecb6dc0baeae48cfacf,Tolman Gardner,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfad0,"Tom, Bert, and William",Male,Stone-trolls,No Realm
+5cdbdecb6dc0baeae48cfad1,Tim,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfad2,Thuringwethil,Female,Vampire,No Realm
+5cdbdecb6dc0baeae48cfad3,Thorondor,Male,Great Eagles,No Realm
+5cdbdecb6dc0baeae48cfad4,Azog,Male,Orcs,"Moria,Mount Gundabad"
+5cdbdecb6dc0baeae48cfad5,Aulë,Male,Ainur,No Realm
+5cdbdecb6dc0baeae48cfad6,Asgon,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfad7,Artamir,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfad8,Ancalagon,Male,Dragons,No Realm
+5cdbdecb6dc0baeae48cfad9,Andvír,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfada,Amlach,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfadb,Aghan,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfadc,Agathor,No Gender,No Race,No Realm
+5cdbdecb6dc0baeae48cfadd,Aerandir,No Gender,No Race,No Realm
+5cdbdf007ed9587226e79499,Freda,Female,Human,No Realm
+5cdbdf377ed9587226e7949a,Sharku,Male,Orc,No Realm
+5cdbdf477ed9587226e7949b,Madril,Male,Human,Gondor
+5cdbdf807ed9587226e7949c,Gothmog,No Gender,Orc,No Realm
+5cdbe1e17ed9587226e7949d,Morwen,Female,Human,Rohan
+5cdbe3667ed9587226e7949e,Figwit,Male,Elf,Rivendell
+5cdbe47d7ed9587226e7949f,MINOR_CHARACTER,Male,Elf,No Realm
+5cdbe49b7ed9587226e794a0,MINOR_CHARACTER,No Gender,No Race,No Realm
+5cdbe73516d496d2c2940848,Éothain,Male,Human,Rohan
